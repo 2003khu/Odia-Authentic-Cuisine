@@ -53,7 +53,7 @@ Contributions are welcome! Please follow these steps to contribute:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SAISWARI-123/odia-cuisine-hub.git
+   git clone (https://github.com/2003khu)/odia-cuisine-hub.git
 2. Install the dependencies:
    ```bash
    npm install
